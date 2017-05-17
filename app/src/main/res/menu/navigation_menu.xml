@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:app="http://schemas.android.com/apk/res-auto">
-<item
+    <item
 
-    android:id="@+id/action_login"
-    android:title="@string/action_login"
-    app:showAsAction="never"
-    />
+        android:id="@+id/action_login"
+        android:title="@string/action_login"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/action_groceries"
+        android:title="Groceries"/>
+    <item
+        android:id="@+id/action_household"
+        android:title="Household"/>
+    <item
+        android:id="@+id/action_peronalCare"
+        android:title="Personal Care"/>
+    <item
+        android:id="@+id/action_packagedFood"
+        android:title="PackagedFoods"/>
+    <item
+        android:id="@+id/action_beverages"
+        android:title="Bevrages"/>
+    <item
+        android:id="@+id/action_gourmet"
+        android:title="Gourmet"/>
+    <item
+        android:id="@+id/action_offers"
+        android:title="Offers"/>
+    <item
+        android:id="@+id/action_contacts"
+        android:title="Contacts"/>
+    <item
+        android:id="@+id/action_legal"
+
+        android:title="Legal"/>
 </menu>
