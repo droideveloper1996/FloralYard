@@ -217,7 +217,7 @@ public class MainActivity extends AppCompatActivity {
         builder.setColor(Color.GREEN);
         Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.floralyard1);
         builder.setContentTitle("Welome To Floral Yard");
-        builder.setSmallIcon(R.mipmap.ic_launcher);
+        builder.setSmallIcon(R.drawable.logo);
         NotificationCompat.BigPictureStyle style = new NotificationCompat.BigPictureStyle();
         style.bigPicture(bitmap);
         builder.setStyle(style);
