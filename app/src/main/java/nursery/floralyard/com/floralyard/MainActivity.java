@@ -152,6 +152,11 @@ public class MainActivity extends AppCompatActivity {
         displayFirebaseRegId();
     }
 
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+    }
+
     private void loadWebPageFromURL() {
         if (isNetworkAvailable()) {
             progressBar.setVisibility(View.VISIBLE);
