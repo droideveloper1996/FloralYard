@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594030682158",
+    "firebase_url": "https://floralyard-6a3b0.firebaseio.com",
+    "project_id": "floralyard-6a3b0",
+    "storage_bucket": "floralyard-6a3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594030682158:android:e7c1ba650b7779a7",
+        "android_client_info": {
+          "package_name": "nursery.floralyard.com.floralyard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594030682158-brj77trltc5060a8cl28gh6bflj87re7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nursery.floralyard.com.floralyard",
+            "certificate_hash": "c36607ae9e2728bcdf1085288c3374f7dd2aa202"
+          }
+        },
+        {
+          "client_id": "594030682158-32svornab5cka6gitces42b45sgrqlck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALD78s9HN4FIWo72dungiMVxojUaIp6gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594030682158-32svornab5cka6gitces42b45sgrqlck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
